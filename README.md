@@ -1,8 +1,5 @@
 ### Hello, I'm Daria Agisheva 👋 
 
-<!--
-**Daria-agisheva/Daria-agisheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###⚡ Skills and tools:
 _Manual testing_
 - Manual functional testing
