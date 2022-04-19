@@ -3,7 +3,7 @@
 <!--
 **Daria-agisheva/Daria-agisheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- ⚡ Skills and tools:
+###⚡ Skills and tools:
 _Manual testing_
 - Manual functional testing
 - Regression testing
