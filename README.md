@@ -25,7 +25,7 @@ _Ручное тестирование_ 🖐
 - Составление Майнд-карт (Xmind, MindMeister)
 
 _Автотестирование_ 💻
-- Небольшой опыт в автотестировании (Java)
+- Работа с автотестами на готовом фреймворке (Java)
 - Работа с командной строкой, Git, IntelliJ IDEA
 - Базовые знания SQL (простые запросы)
 
@@ -40,7 +40,9 @@ _Автотестирование_ 💻
  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDEA" **alt="Intellij IDEA" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Postman" **alt="Postman" width="40" height="40"/>
- 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="Clickhouse" **alt="Clickhouse" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" title="BrowserStack" **alt="BrowserStack" width="40" height="40"/>
  
  
 </div>
