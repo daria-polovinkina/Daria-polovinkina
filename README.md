@@ -1,5 +1,5 @@
 ### Здравствуйте 👋 
-Меня зовут Дария Агишева, я тестировщик QA Engineer
+Меня зовут Дария Агишева, я QA Engineer
 
 <div id="badges">
   <a href="https://github.com/Daria-agisheva/Portfolio">
@@ -17,7 +17,7 @@ _Ручное тестирование_ 🖐
 - Интеграционное тестирование
 - Составление тест-кейсов (TestRail, Testlink, Test IT)
 - Составление чек-листов (Sitechko)
-- Локализация, оформление багов и улучшений в баг-трекинговых системах (Redmine, Bugzilla, Mantis, JIRA + Confluence, YouTrack)
+- Локализация, оформление багов и улучшений в баг-трекинговых системах (Redmine, JIRA + Confluence, YouTrack, Битрикс24)
 - Основные техники тест-дизайна (классы эквивалентности, граничные значения)
 - Исследовательское тестирование - тестирование по турам Д. Уиттакера, мнемоники
 - Тестирование документации (в том числе варианты использования)
@@ -25,9 +25,12 @@ _Ручное тестирование_ 🖐
 - Составление Майнд-карт (Xmind, MindMeister)
 
 _Автотестирование_ 💻
-- Работа с автотестами на готовом фреймворке (Java)
-- Работа с командной строкой, Git, IntelliJ IDEA
-- Базовые знания SQL (простые запросы)
+- Запуск автотестов на готовом фреймворке (Java) в IntelliJ IDEA
+- Работа с командной строкой, Git CMD, Git Bash  
+- Базовые знания SQL (простые запросы: SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY, JOIN)
+- Работа с PgAdmin
+- Работа в VSCode
+- Работа в PyCharm
 
 Английский язык: Intermediate
   
@@ -43,6 +46,12 @@ _Автотестирование_ 💻
    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
  <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="Clickhouse" **alt="Clickhouse" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" title="BrowserStack" **alt="BrowserStack" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
  
  
 </div>
