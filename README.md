@@ -2,23 +2,6 @@
 Меня зовут Дария Половинкина, я QA Engineer
 
 
-
-<div id="badges">
-  <a href="https://github.com/Daria-agisheva/Portfolio">
-   <img src="https://img.shields.io/badge/ПОРТФОЛИО-black?style=for-the-badge&logo=PORTFOLIO&logoColor=white" alt="PORTFOLIO Badge"/>
-  </a>
- <a href="https://github.com/Daria-agisheva/Portfolio/wiki">
-   <img src="https://img.shields.io/badge/Тестовая документация-gray?style=for-the-badge&logo=PORTFOLIO&logoColor=white" alt="PORTFOLIO Badge"/>
-  </a>
-  
-  ⚡Мои навыки:
-  
-_Ручное тестирование_ 🖐
-
-
-_Автотестирование_ 💻
-
-
 Английский язык: Intermediate
   
 ---
